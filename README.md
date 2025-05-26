@@ -56,7 +56,7 @@ projeto/
 3. **Execute o jogo**
    No terminal (na pasta do projeto):
    ```bash
-   python main.py
+   python game.py
    ```
 
 ## 🧠 Como Funciona
@@ -101,10 +101,15 @@ Cada estado possui uma lista de sprites. A cada X frames (controlado por `tempo_
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Matheus**  
+Desenvolvido até versão 1.0 por **Matheus Garcia**  
 Faculdade: Ciência da Computação – IFMG  
-Projeto vinculado ao evento **Desvendando a Computação**
 
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para modificar, estudar e reutilizar com créditos ao autor.
+
+## 🖼️ Créditos dos Sprites
+
+Os sprites utilizados neste projeto foram extraídos do site **The Spriters Resource**, especificamente da folha de sprites do jogo *Marvel vs. Capcom*. Todos os créditos pelos sprites pertencem aos criadores originais e à equipe do site:
+
+🔗 [Marvel vs. Capcom - War Machine](https://www.spriters-resource.com/arcade/marvelvscapcom/sheet/74176/)
